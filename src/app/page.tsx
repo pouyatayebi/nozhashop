@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 import { getPosts } from "@/server/actions/get-posts";
 
 export default async function Home() {
@@ -5,8 +6,9 @@ export default async function Home() {
   console.log("data", data);
 
   return (
-    <main>
-      <h2>Start Project</h2>
+    <main className="text-4xl p-6">
+      <h1 className="text-secondary-foreground">Hello there</h1>
+      <Button>Click Me</Button>
     </main>
   );
 }
