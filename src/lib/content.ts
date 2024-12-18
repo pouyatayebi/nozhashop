@@ -30,7 +30,7 @@ export const words={
     "editProductSubmitLabel":"ذخیره تغیرات",
     "IRR":"ریال",
     "eitaaCta":"کانال ایتای نوژاشاپ",
-    "homeSeoTitle":"نوژاشاپ",
+    "homeSeoTitle":"نوژاشاپ، فروشگاهی گوگولی",
     "homeSeoDescription":"فروشگاه لوازم التحریز نوژاشاپ"
 
 }

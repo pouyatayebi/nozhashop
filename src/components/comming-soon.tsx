@@ -15,7 +15,7 @@ export default function CommingSoon() {
       </p>
 
       <Button className="bg-[#EF7F1A]" asChild>
-        <Link href="/">
+        <Link href="https://eitaa.com/nozhashopp">
           <div className="flex items-center gap-2">
             <Image
               src={"/eitaa-border.png"}
